@@ -45,3 +45,7 @@
 **网络代理与穿透**
 
 1. frp **(A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.)**
+
+**加密**
+
+1. [bcrypt](<https://github.com/dcodeIO/bcrypt.js>)
