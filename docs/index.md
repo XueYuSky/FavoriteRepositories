@@ -24,6 +24,7 @@
 8. node-restify**(The future of Node.js REST development)**
 9. restify-cors-middleware **(CORS)**
 10. csurf **(Node.js [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery) protection middleware.)**
+11. csrf **([Logic behind CSRF token creation and verification.](https://github.com/pillarjs/csrf.git))**
 
 **人工智能**
 
