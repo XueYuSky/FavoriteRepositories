@@ -30,6 +30,7 @@
 **人工智能**
 
 1. Airsim(Microsoft)
+2. donet/**[machinelearning](https://github.com/dotnet/machinelearning)**
 
 **引擎**
 
