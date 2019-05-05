@@ -50,9 +50,13 @@
 
 18. [multer](<https://github.com/expressjs/multer>)（文件上传库）
 
-19. [body-parser](<https://github.com/expressjs/body-parser>)  **(Node.js body parsing middleware.**
+19. [body-parser](<https://github.com/expressjs/body-parser>)  **(Node.js body parsing middleware.Parse incoming request bodies in a middleware before your handlers, available under the `req.body` property.)**
 
-    **Parse incoming request bodies in a middleware before your handlers, available under the `req.body` property.)**
+20. expressjs系列：
+    > exppress
+    > express-sessionn
+
+    
 
 **人工智能**
 
