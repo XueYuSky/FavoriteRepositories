@@ -62,6 +62,7 @@
 
 1. Airsim(Microsoft)
 2. donet/**[machinelearning](https://github.com/dotnet/machinelearning)**
+3. pulp-dronet（[全自主无人机](<https://github.com/pulp-platform/pulp-dronet>)）
 
 **引擎**
 
